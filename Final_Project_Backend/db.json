@@ -1,0 +1,110 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Blue T-Shirt",
+      "description": "A nice blue T-Shirt.",
+      "price": 15,
+      "image": "/images/blueShirt.png"
+    },
+    {
+      "id": 2,
+      "name": "Red T-Shirt",
+      "description": "A bright red T-Shirt.",
+      "price": 16,
+      "image": "/images/redShirt.png"
+    },
+    {
+      "id": 3,
+      "name": "Green T-Shirt",
+      "description": "A standard green T-Shirt.",
+      "price": 18,
+      "image": "/images/greenShirt.png"
+    },
+    {
+      "id": 4,
+      "name": "Wireless Bluetooth Headphones",
+      "description": "Over-ear headphones with high-fidelity sound, noise isolation, and up to 20 hours of battery life. Comfortable for long listening sessions.",
+      "price": 59,
+      "image": "/images/headphones.jpg"
+    },
+    {
+      "id": 5,
+      "name": "UltraSlim Laptop 14\"",
+      "description": "Lightweight laptop with a 14-inch display, fast performance, and all-day battery life. Ideal for work, school, and everyday use.",
+      "price": 699,
+      "image": "/images/laptop.jpg"
+    },
+    {
+      "id": 6,
+      "name": "True Wireless Earbuds",
+      "description": "Compact earbuds with clear sound, touch controls, and a portable charging case. Perfect for commuting and workouts.",
+      "price": 39,
+      "image": "/images/earbuds.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mechanical Gaming Keyboard",
+      "description": "Responsive mechanical keys with RGB backlighting. Designed for gaming precision and comfortable typing.",
+      "price": 89,
+      "image": "/images/keyboard.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Wireless Ergonomic Mouse",
+      "description": "Smooth tracking with an ergonomic design that reduces hand strain. Reliable wireless connection and long battery life.",
+      "price": 29,
+      "image": "/images/mouse.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact speaker with powerful sound and deep bass. Water-resistant design makes it great for travel and outdoor use.",
+      "price": 45,
+      "image": "/images/speaker.jpg"
+    },
+    {
+      "id": 10,
+      "name": "HD Webcam 1080p",
+      "description": "Full HD webcam with built-in microphone for clear video calls and streaming. Plug-and-play compatibility.",
+      "price": 35,
+      "image": "/images/webcam.jpg"
+    },
+    {
+      "id": 11,
+      "name": "10\" Tablet Device",
+      "description": "Sleek tablet with a vibrant display, fast performance, and long battery life. Great for browsing, streaming, and apps.",
+      "price": 199,
+      "image": "/images/tablet.jpg"
+    },
+    {
+      "id": 12,
+      "name": "External SSD 1TB",
+      "description": "High-speed portable storage with fast data transfer and durable design. Ideal for backups and large files.",
+      "price": 129,
+      "image": "/images/ssd.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Smart Fitness Watch",
+      "description": "Track steps, heart rate, and daily activity with a sleek, lightweight smartwatch. Syncs easily with your phone.",
+      "price": 79,
+      "image": "/images/watch.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Noise Cancelling Earbuds",
+      "description": "In-ear headphones with active noise cancellation and immersive sound. Great for travel and focused listening.",
+      "price": 69,
+      "image": "/images/noisebuds.jpg"
+    },
+    {
+      "id": 15,
+      "name": "USB-C Multiport Adapter",
+      "description": "Expand your laptop's connectivity with HDMI, USB, and charging ports in one compact hub.",
+      "price": 25,
+      "image": "/images/usbadapter.jpg"
+    }
+  ],
+  "cart": []
+}

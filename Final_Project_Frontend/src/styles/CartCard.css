@@ -1,0 +1,56 @@
+.cart-card {
+    background-color: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 10px;
+
+    padding: 14px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.cart-card h2 {
+    font-size: 16px;
+    margin: 0;
+}
+
+.cart-card p {
+    font-size: 13px;
+    color: #94a3b8;
+    margin: 0;
+}
+
+.button-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+    margin-top: 6px;
+}
+
+.button-row button {
+    width: 30px;
+    height: 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid #334155;
+    background-color: #0f172a;
+    color: #e5e7eb;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.button-row button:hover {
+    background-color: #334155;
+}
+
+.button-row span {
+    min-width: 24px;
+    text-align: center;
+    font-weight: bold;
+}
